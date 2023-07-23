@@ -29,6 +29,7 @@ num1=num2
 num2=tem
 print("Swapped values are:",num1,num2)
 ```
+
 ## OUTPUT:
 
 ![output](/swap.PNG)
